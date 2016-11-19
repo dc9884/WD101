@@ -1,0 +1,8 @@
+h1 {
+	color: green;  /* CSS comment: all content in h1 tags are now green */
+}  
+
+p {
+	color: red;
+	font-size: 18px;
+}
